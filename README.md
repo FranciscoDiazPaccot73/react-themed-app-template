@@ -4,6 +4,8 @@ This is a simple and short template to make a themed app using react and `prefer
 
 ![App gif](https://github.com/FranciscoDiazPaccot73/react-themed-app-template/blob/master/src/assets/app-gif.gif?raw=true)
 
+Made by: [Francisco Diaz Paccot](https://franciscodiazpaccot.com)
+
 ## Available Scripts
 
 In the project directory, you can run:
