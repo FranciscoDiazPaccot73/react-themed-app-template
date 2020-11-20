@@ -2,6 +2,8 @@
 
 This is a simple and short template to make a themed app using react and `prefers-color-scheme`
 
+![App gif](https://github.com/FranciscoDiazPaccot73/react-themed-app-template/blob/master/src/assets/app-gif.gif?raw=true)
+
 ## Available Scripts
 
 In the project directory, you can run:
